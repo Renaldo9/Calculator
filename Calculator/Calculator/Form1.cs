@@ -21,5 +21,11 @@ namespace Calculator
         {
 
         }
+        float ans;
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            ans = 54;
+            Outputlbl.Text = ans.ToString();
+        }
     }
 }

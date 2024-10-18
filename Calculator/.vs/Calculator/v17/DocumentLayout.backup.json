@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\renal\\repos\\Calculator\\Calculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B24110C0-8699-4D75-878C-61FA4BABE8A0}|Calculator\\Calculator.csproj|c:\\users\\renal\\repos\\calculator\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24110C0-8699-4D75-878C-61FA4BABE8A0}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B24110C0-8699-4D75-878C-61FA4BABE8A0}|Calculator\\Calculator.csproj|c:\\users\\renal\\repos\\calculator\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B24110C0-8699-4D75-878C-61FA4BABE8A0}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,11 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\renal\\repos\\Calculator\\Calculator\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\renal\\repos\\Calculator\\Calculator\\Calculator\\Form1.cs*",
+              "RelativeToolTip": "Calculator\\Form1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:29:07.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\renal\\repos\\Calculator\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
-              "ToolTip": "C:\\Users\\renal\\repos\\Calculator\\Calculator\\Calculator\\Form1.cs [Design]",
-              "RelativeToolTip": "Calculator\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\renal\\repos\\Calculator\\Calculator\\Calculator\\Form1.cs [Design]*",
+              "RelativeToolTip": "Calculator\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T18:53:44.6Z",
               "EditorCaption": " [Design]"
